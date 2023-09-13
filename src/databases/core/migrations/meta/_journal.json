@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1694566027063,
+      "tag": "0000_closed_talisman",
+      "breakpoints": false
+    }
+  ]
+}
