@@ -13,8 +13,9 @@
     "lucia": "^2.5.0"
   },
   "devDependencies": {
+    "@flydotio/dockerfile": "latest",
     "bun-types": "latest",
     "drizzle-kit": "^0.19.13"
   },
-  "module": "src/index.js"
+  "module": "src/index.ts"
 }
